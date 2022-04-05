@@ -1,0 +1,2 @@
+by/anymask/core/CoreApplicationTests.java
+ by.anymask.core.CoreApplicationTests
